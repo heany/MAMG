@@ -5,12 +5,13 @@ This repository contains code for ''A Model-agnostic Approach to Mitigate Gradie
 
 ## Datasets
 
-Please download the formatted datasets for [`CIFAR-100-MTL`](http://www.cs.toronto.edu/~kriz/cifar.html), 
-[`CelebA`](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html),
-[`MultiMNIST`](https://github.com/intel-isl/MultiObjectiveOptimization),
-[`CityScapes`](https://drive.google.com/file/d/1WrVMA_UZpoj7voajf60yIVaS_Ggl0jrH/view),
-[`NYUv2`](https://drive.google.com/file/d/11pWuQXMFBNMIIB4VYMzi9RPE-nMOBU8g/view), and 
-[`Taskonomy`](https://github.com/StanfordVL/taskonomy/tree/master/data)
+The `CIFAR-100-MTL` can be found [here](http://www.cs.toronto.edu/~kriz/cifar.html).
+The `CelebA` can be found [here](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html).
+The `MultiMNIST` can be found [here](https://github.com/intel-isl/MultiObjectiveOptimization).
+The `CityScapes` can be found [here](https://drive.google.com/file/d/1WrVMA_UZpoj7voajf60yIVaS_Ggl0jrH/view).
+The `NYUv2` can be found [here](https://drive.google.com/file/d/11pWuQXMFBNMIIB4VYMzi9RPE-nMOBU8g/view).
+The `Taskonomy` can be found [here](https://github.com/StanfordVL/taskonomy/tree/master/data).
+
 
 
 
