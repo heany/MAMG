@@ -7,7 +7,7 @@ This repository contains code for ''A Model-agnostic Approach to Mitigate Gradie
 
 Our experiments in the paper were based on the following repositories.
 
-`CIFAR-100-MTL` can be found [here](https://github.com/cle-ros/RoutingNetworks)
+`CIFAR-100-MTL` can be found [here](http://www.cs.toronto.edu/~kriz/cifar.html)
 
 `MultiMNIST` and `CelebA` can be found [here](https://github.com/intel-isl/MultiObjectiveOptimization)
 
