@@ -1,5 +1,5 @@
 # MAMG
-This repository contains code for ''Gradient Surgery for Multi-Task Learning".
+This repository contains code for ''A Model-agnostic Approach to Mitigate Gradient Interference for Multi-task Learning".
 
 
 
