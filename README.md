@@ -5,9 +5,9 @@ This repository contains code for ''A Model-agnostic Approach to Mitigate Gradie
 
 ## Datasets
 
-Our experiments in the paper were based on the following repositories.
+Please download the formatted datasets for [`CIFAR-100-MTL`](http://www.cs.toronto.edu/~kriz/cifar.html)
 
-`CIFAR-100-MTL` can be found [here](http://www.cs.toronto.edu/~kriz/cifar.html)
+`CIFAR-100-MTL` is download [here](http://www.cs.toronto.edu/~kriz/cifar.html)
 
 `MultiMNIST` and `CelebA` can be found [here](https://github.com/intel-isl/MultiObjectiveOptimization)
 
